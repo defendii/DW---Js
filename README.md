@@ -19,7 +19,14 @@ Os principais dados primitivos no Jvascript são: boolean, number, string, undef
 - String: são usadas para representar dados textuais. Cada elemento representa um índice, que começa no 0. As strings são imutáveis;
 - Undefined: ;
 - Null: ; 
+>[!IMPORTANT]
 
+>[!NOTE]
 
+>[!TIP]
+
+>[!WARNING]
+
+>[!CAUTION]
 
 **Objeto**
